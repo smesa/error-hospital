@@ -1,0 +1,15 @@
+export type Email = string;
+export type Password = string;
+export type Token = string;
+export type Uuid = string;
+export type Name = string;
+export type Role = string;
+export type Status = string;
+export type Date = string;
+export type Time = string;
+export type DateTime = string;
+export type Timestamp = string;
+export type Phone = string;
+export type Address = string;
+export type Country = string;
+export type City = string; 
